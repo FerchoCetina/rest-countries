@@ -11,7 +11,7 @@ _2_ Instala la requerimientos en el entorno
 ## Probar el codigo
 Para probar el codigo basta con correr
 
-    python main
+    python main.py
     
 Deberas ver un input parecido a este:
 
